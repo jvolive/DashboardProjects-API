@@ -1,0 +1,225 @@
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.csproj.AssemblyReference.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.AssemblyInfoInputs.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.AssemblyInfo.cs
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.csproj.CoreCompileInputs.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.sourcelink.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.exe
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.deps.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.runtimeconfig.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Application.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Domain.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Infrastructure.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Application.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Infrastructure.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Domain.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsApi.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectsApi.Api.props
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectsApi.Api.props
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectsApi.Api.props
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\scopedcss\bundle\ProjectsApi.Api.styles.css
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\Projects.BF0E94A3.Up2Date
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\refint\ProjectsApi.Api.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.genruntimeconfig.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Api\obj\Debug\net8.0\ref\ProjectsApi.Api.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\appsettings.Development.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\appsettings.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.exe
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.deps.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.runtimeconfig.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Api.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Humanizer.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Npgsql.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\System.CodeDom.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Application.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Domain.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Infrastructure.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Application.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Infrastructure.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\bin\Debug\net8.0\ProjectsApi.Domain.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.csproj.AssemblyReference.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.AssemblyInfoInputs.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.AssemblyInfo.cs
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.csproj.CoreCompileInputs.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.MvcApplicationPartsAssemblyInfo.cs
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.MvcApplicationPartsAssemblyInfo.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.sourcelink.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets.build.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets.development.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.ProjectsApi.Api.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectsApi.Api.props
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectsApi.Api.props
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectsApi.Api.props
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\scopedcss\bundle\ProjectsApi.Api.styles.css
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\Projects.BF0E94A3.Up2Date
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\refint\ProjectsApi.Api.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ProjectsApi.Api.genruntimeconfig.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Api\obj\Debug\net8.0\ref\ProjectsApi.Api.dll

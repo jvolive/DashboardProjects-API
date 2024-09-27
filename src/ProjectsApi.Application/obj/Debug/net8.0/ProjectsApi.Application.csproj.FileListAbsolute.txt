@@ -1,0 +1,36 @@
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.csproj.AssemblyReference.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.AssemblyInfoInputs.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.AssemblyInfo.cs
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.sourcelink.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Application.deps.json
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Application.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Application.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Domain.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Infrastructure.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Domain.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Infrastructure.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\Projects.57897230.Up2Date
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\refint\ProjectsApi.Application.dll
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.pdb
+C:\Users\poajoa18\OneDrive - ANDRITZ AG\Documents\Program\api_projects\src\ProjectsApi.Application\obj\Debug\net8.0\ref\ProjectsApi.Application.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Application.deps.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Application.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Application.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Domain.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Infrastructure.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Domain.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\bin\Debug\net8.0\ProjectsApi.Infrastructure.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.csproj.AssemblyReference.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.AssemblyInfoInputs.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.AssemblyInfo.cs
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.csproj.CoreCompileInputs.cache
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.sourcelink.json
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\Projects.57897230.Up2Date
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\refint\ProjectsApi.Application.dll
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ProjectsApi.Application.pdb
+c:\Projects\DashboardProjects\backend\src\ProjectsApi.Application\obj\Debug\net8.0\ref\ProjectsApi.Application.dll

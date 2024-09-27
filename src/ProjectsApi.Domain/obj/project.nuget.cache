@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItVLkg9mKhI=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
