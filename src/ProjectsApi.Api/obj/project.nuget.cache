@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tx/yqSYNitQ=",
+  "dgSpecHash": "kwIZyJ2bB7U=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Api\\ProjectsApi.Api.csproj",
+  "projectFilePath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Api\\ProjectsApi.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\joaoo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",

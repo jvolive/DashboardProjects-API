@@ -862,11 +862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Application\\ProjectsApi.Application.csproj",
+      "projectUniqueName": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Application\\ProjectsApi.Application.csproj",
       "projectName": "ProjectsApi.Application",
-      "projectPath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Application\\ProjectsApi.Application.csproj",
+      "projectPath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Application\\ProjectsApi.Application.csproj",
       "packagesPath": "C:\\Users\\joaoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Application\\obj\\",
+      "outputPath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joaoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -882,11 +882,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj": {
-              "projectPath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj"
+            "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj": {
+              "projectPath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj"
             },
-            "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Infrastructure\\ProjectsApi.Infrastructure.csproj": {
-              "projectPath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Infrastructure\\ProjectsApi.Infrastructure.csproj"
+            "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Infrastructure\\ProjectsApi.Infrastructure.csproj": {
+              "projectPath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Infrastructure\\ProjectsApi.Infrastructure.csproj"
             }
           }
         }

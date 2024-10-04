@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj": {}
+    "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj": {
+    "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj",
         "projectName": "ProjectsApi.Domain",
-        "projectPath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj",
+        "projectPath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\ProjectsApi.Domain.csproj",
         "packagesPath": "C:\\Users\\joaoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\obj\\",
+        "outputPath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaoo\\AppData\\Roaming\\NuGet\\NuGet.Config"

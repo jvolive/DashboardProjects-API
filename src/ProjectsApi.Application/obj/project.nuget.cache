@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yhY+Yz9p0jQ=",
+  "dgSpecHash": "WDV6RCI0XnA=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\DashboardProjects\\DashboardProjects-API\\src\\ProjectsApi.Application\\ProjectsApi.Application.csproj",
+  "projectFilePath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Application\\ProjectsApi.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaoo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\joaoo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
