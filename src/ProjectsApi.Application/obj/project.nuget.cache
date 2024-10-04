@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WDV6RCI0XnA=",
+  "dgSpecHash": "NgI9LscCNH8=",
   "success": true,
   "projectFilePath": "C:\\Projects\\DashboardProjects-API\\src\\ProjectsApi.Application\\ProjectsApi.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\joaoo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\joaoo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\joaoo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",
     "C:\\Users\\joaoo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.7\\microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512",

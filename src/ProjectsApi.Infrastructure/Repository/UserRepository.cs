@@ -1,5 +1,5 @@
-using IngaCode.Domain.Entities;
-using IngaCode.Domain.Interfaces;
+using ProjectsApi.Domain.Entities;
+using ProjectsApi.Domain.Interfaces;
 using System.Data;
 using Dapper;
 
@@ -32,5 +32,15 @@ public class UserRepository : IUserRepository
 
         var isValid = await _dbConnection.QuerySingleAsync<bool>(query, new { Username = username, Password = password });
         return isValid;
+    }
+
+    public async Task<User> GetByNameAsync(string name)
+    {
+        var query = @"
+        SELECT name_user 
+        FROM users 
+        WHERE name_user = @Name";
+
+        return await _dbConnection.QuerySingleOrDefaultAsync<User>(query, new { Name = name });
     }
 }
